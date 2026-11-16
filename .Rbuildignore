@@ -1,0 +1,13 @@
+^renv$
+^renv\.lock$
+^.*\.Rproj$
+^\.Rproj\.user$
+^app\.R$
+^scripts$
+^rsconnect$
+^\.git$
+^\.gitignore$
+^racial_discrimination_grading_AEJ\.dta$
+^LICENSE-replication\.txt$
+^renv\.lock$
+^renv$

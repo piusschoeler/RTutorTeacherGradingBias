@@ -1,0 +1,14 @@
+.Rproj.user/
+.Rhistory
+.RData
+.RDataTmp
+.DS_Store
+*.ups
+*.sav
+*.log
+Rplot*.svg
+rsconnect/
+.Renviron
+.Rprofile
+/racial_discrimination_grading_AEJ.dta
+/LICENSE-replication.txt

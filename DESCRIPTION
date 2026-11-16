@@ -1,0 +1,20 @@
+Package: RTutorTeacherGradingBias
+Type: Package
+Title: RTutor problem set TeacherGradingBias
+Version: 0.1
+Date: 2026-09-04
+Author: Pius Schöler
+Maintainer: Pius Schöler, <pius.schoeler@uni-ulm.de>
+Description: Provides an interactive problem set that reproduces and explains
+    central parts of the empirical analysis in Botelho, Madeira, and Rangel
+    (2015), "Racial Discrimination in Grading: Evidence from Brazil"
+    <doi:10.1257/app.20140352>. It examines racial differences in
+    teacher-assigned mathematics grades in São Paulo public schools using
+    descriptive analysis, classroom fixed effects, proxy controls,
+    measurement-error simulations, instrumental-variable methods, diagnostic
+    tests, and heterogeneity analyses.
+License: file LICENSE
+Encoding: UTF-8
+Depends: RTutor, haven, dplyr, tibble, ggplot2, lfe, stargazer, fixest, knitr, tidyr
+URL: https://github.com/piusschoeler/RTutorTeacherGradingBias
+BugReports: https://github.com/piusschoeler/RTutorTeacherGradingBias/issues
