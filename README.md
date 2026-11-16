@@ -1,5 +1,7 @@
 # RTutorTeacherGradingBias
 
+**[Open the interactive problem set in your browser](https://01a1e48a-1639-d5f7-e3ba-cdb0b866665f.share.connect.posit.cloud/)** — no local R installation required.
+
 This repository contains the interactive **TeacherGradingBias** problem set,
 developed with [RTutor](https://github.com/skranz/RTutor) as part of a
 bachelor's thesis at Ulm University.
